@@ -1,8 +1,8 @@
 # Recipes
 
-Project fot The Odin Project
+Project for The Odin Project
 
-WebPage to display and Add recipes with images and steps
+WebPage to display and Add recipes with images, information, ingredients and steps.
 
 Skills: HTML
 
