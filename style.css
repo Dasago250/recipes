@@ -55,6 +55,7 @@ main .recipesLinks{
 
 main .recipesLinks li{
   background-color: #FA8334;
+  border: 5px solid #388697;
   border-radius: 20px;
   width: 350px;
   display: flex;
@@ -68,16 +69,17 @@ main .recipesLinks li a{
   align-items: center;
   text-align: center;
   text-decoration: none;
-  color: #FFFD77;
+  color: #271033;
   font-size: 23px;
 }
 main .recipesLinks li a p{
   word-wrap: normal;
+  padding: 0 20px;
 }
 main .recipesLinks li a img{
-  width: 350px;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
+  width: 100%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
 }
 /*---------------------Footer--------------------------*/
 footer{
