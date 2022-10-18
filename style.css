@@ -25,6 +25,7 @@ body{
   align-items: stretch;
   font-family: 'VarelaRound' , sans-serif;
 }
+/*---------------------Header--------------------------*/
 header{
   background-color:  #1BE7FF;;
   display: flex;
@@ -36,7 +37,7 @@ header h1{
   font-size: 64px;
   color: #FF5714;
 }
-
+/*---------------------Main--------------------------*/
 main{
   flex: 1 1 auto;
   display: flex;
@@ -77,4 +78,16 @@ main .recipesLinks li a img{
   width: 350px;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
+}
+/*---------------------Footer--------------------------*/
+footer{
+  background-color: #6EEB83;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer p a{
+  text-decoration: none;
+  font-size: 18px;
+  color: #E4FF1A;
 }
