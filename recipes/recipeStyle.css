@@ -41,9 +41,10 @@ header h1{
 main{
   flex : 1 1 auto;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 10vh 10%;
+  padding: 5vh 10%;
   gap:50px
 }
 main .image{
