@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'Satisfy';
+  src: url(./Fonts/Satisfy-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'VarelaRound';
+  src: url(./Fonts/VarelaRound-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  padding: 0;
+  margin: 0;
+  background-color: #E4FF1A;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  font-family: 'VarelaRound' , sans-serif;
+}
+header{
+  background-color:  #1BE7FF;;
+  display: flex;
+  justify-content: center;
+}
+header h1{
+  margin: 0;
+  font-family: 'Satisfy';
+  font-size: 64px;
+  color: #FF5714;
+}
