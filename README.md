@@ -2,8 +2,8 @@
 
 Project for The Odin Project
 
-WebPage to display and Add recipes with images, information, ingredients and steps.
+Web Page to display recipes
 
-Skills: HTML
-
-Changes and skill to add: CSS, JS, Css frameworks, preprocessor and Lint
+Skills: HTML, CSS(Flexbox)
+ 
+Changes and skill to add: Add recipes with (images, information, ingredients and steps) , JS, Css frameworks, preprocessor and Lint.
